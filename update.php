@@ -69,7 +69,7 @@
 					"read_body_callback" => "Download_Callback",
 					"read_body_callback_opts" => $fp
 				);
-				$result2 = $web2->Process($url, "auto", $options);
+				$result2 = $web2->Process($url, $options);
 				fclose($fp);
 
 				echo "\n";
