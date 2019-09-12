@@ -7,6 +7,8 @@ Git Portable is, in my opinion, currently the best source of pre-compiled MSYS b
 
 Only ssh.exe is being included at the moment.  There are alternatives for the other MSYS SSH related tools that are, in my opinion, better.
 
+[![Donate](https://cubiclesoft.com/res/donate-shield.png)](https://cubiclesoft.com/donate/)
+
 License
 -------
 
